@@ -47,20 +47,22 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilcode011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilcode011&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilcode011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilcode011&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" height="180" alt="languages graph" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dilcode011&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dilcode011&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=7aa2f7&sideLabels=7aa2f7" alt="streak graph" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilcode011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=dilcode011&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
