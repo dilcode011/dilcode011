@@ -42,26 +42,9 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilcode011&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilcode011&layout=compact&theme=tokyonight&hide_border=true&v=2" height="180" alt="languages graph" />
-</div>
 
 <br />
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dilcode011&theme=tokyonight&hide_border=true&v=2" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=dilcode011&theme=dracula&no-frame=true&no-bg=true&margin-w=4&v=2" />
-</div>
 
 ---
 
