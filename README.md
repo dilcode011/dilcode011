@@ -1,3 +1,5 @@
+<div style="background-image: url('bg.png'); background-size: cover; background-position: center; padding: 30px;">
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dilpreet%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Dev%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=25" alt="Dilpreet Header" />
   
@@ -69,4 +71,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2" />
+</div>
+
 </div>
