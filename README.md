@@ -1,8 +1,7 @@
-<div style="background-image: url('bg.png'); background-size: cover; background-position: center; padding: 30px;">
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dilpreet%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Dev%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=25" alt="Dilpreet Header" />
+  <img src="bg.png" alt="Dilpreet Singh Banner" width="100%" />
   
+  <br/>
   <br/>
   
   <a href="https://git.io/typing-svg">
@@ -44,9 +43,17 @@
 
 <br/>
 
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dilcode011&show_icons=true&theme=tokyonight&hide_border=true" alt="dilcode011 stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilcode011&layout=compact&theme=tokyonight&hide_border=true" alt="dilcode011 languages" />
+</p>
 
 <br />
-
 
 ---
 
@@ -70,7 +77,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2" />
-</div>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
